@@ -15,7 +15,7 @@ hr{
 .container{
 	text-align: center;
 	background: white;
-	background-image: url('../images/road.jpg');
+	background-image: url('./road.jpg');
 	background-repeat: no-repeat ;
 	background-size: contain;
 	overflow: hidden;
