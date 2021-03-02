@@ -7,6 +7,9 @@
 body{
 	background: rgb(81, 149, 168);
 }
+.bg{background-image: url(./bg-parttern-card.svg);
+	
+}
 
 hr{
 	width: 85%;
